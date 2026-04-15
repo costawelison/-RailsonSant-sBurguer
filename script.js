@@ -122,7 +122,7 @@ function enviarWhats() {
         mensagem += `\n📝 Obs: ${obs}`;
     }
 
-    let numero = "5593991690572"; // COLOCA SEU NÚMERO AQUI
+    let numero = "5593991681029"; // COLOCA SEU NÚMERO AQUI
 
     let url = `https://wa.me/${numero}?text=${encodeURIComponent(mensagem)}`;
 
